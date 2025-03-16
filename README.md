@@ -1,4 +1,6 @@
 # Wysky-a-Go-go
+
+![go Montado](./go-go.jpg)
 Repositório para estudos de Golang.
 
 1 - Go é uma linguagem Compilada, ou seja transforma a linquagem humana em um linguagem de maquinas(executavel).<br>
