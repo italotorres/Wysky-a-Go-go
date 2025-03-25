@@ -1,4 +1,4 @@
-# Wysky a Go-Go
+# Whisky a Go-Go
 
 ![go Montado](./go-go.jpg)<br>
 
